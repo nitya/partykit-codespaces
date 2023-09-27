@@ -1,0 +1,15 @@
+{
+  "main": "party/main.ts",
+  "name": "partykit-nextjs-chat-template",
+  "parties": {
+    "chatroom": "party/chatRoom.ts",
+    "chatrooms": "party/chatRooms.ts",
+    "user": "party/user.ts",
+    "ai": "party/ai.ts",
+    "cursors": "party/cursors.ts",
+    "garden": "party/garden.ts"
+  },
+  "serve": {
+    "path": "party/public"
+  }
+}
